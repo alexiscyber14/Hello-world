@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Alex's README Template</b></h3>
 
 </div>
 
@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Hello Microverse]** is a test am doing to advance my studies as a software engineer
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -207,15 +207,8 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/alexiscyber14)
+- LinkedIn: [LinkedIn](linkedin.com/in/alex-ssenyondo-107056259)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
