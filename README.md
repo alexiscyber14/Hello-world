@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="mas.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Alex's README Template</b></h3>
@@ -62,34 +62,34 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+<!--Describe your project in 1 or 2 sentences.-->
 
-**[Hello Microverse]** is a test am doing to advance my studies as a software engineer
+**[Hello Microverse]** is a simple project for beginner software developers.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
+<!-- Describe the tech stack and include only the relevant sections that apply to your project.
+-->
 <details>
-  <summary>Client</summary>
+  <summary>Markup language</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://www.w3schools.com/html/default.asp">HTML</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Styling</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://www.w3schools.com/css/default.asp">CSS</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>Others</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.postgresql.org/">Json</a></li>
   </ul>
 </details>
 
@@ -97,11 +97,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Beatifully colored header]**
+- **[Fast SEO rating capable html]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +108,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [coming soon](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,80 +119,40 @@ After you're finished please remove all the comments and instructions!
 > Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
+Install Git.
+Create a github account.
+Go to the repository and copy its url link
+clone the repository on you computer and its yours
 
 ### Prerequisites
 
 In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+Have an internet connected computer and a github account
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
 Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+You can install it using the github destktop app and also download nodejs on your machine for it to work alright
 
 ### Usage
 
 To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+You can install liver server in your vscode and you can just run it to test the project
 
 ### Run tests
 
 To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+clone the repository on your local machine and run the html.index file
 
 ### Deployment
 
 You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+Heroku, Railway, Github, and any host of your choice
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,12 +172,9 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Registration Forms]**
+- [ ] **[Responsiveness]**
+- [ ] **[SEO customization]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,10 +191,7 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project, Please feel free to contribute. It's open source and not yet perfect, and so, anyone is more than welcome to contribute.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -256,17 +207,13 @@ I would like to thank...
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+- **[Is this code user friendly??]**
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+  - [Yes, this code is user friendly and easy to understand]
 
-- **[Question_1]**
+- **[Is teh link to clone the project free??]**
 
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  - [Yes it is. Follow the link to access this project<a href="https://github.com/alexiscyber14/Hello-world">https://github.com/alexiscyber14/Hello-world</a>]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
